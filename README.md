@@ -1,7 +1,20 @@
+# Multi Steps Form
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
 You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
+
+- log your details!
+- turn to new page too register your information about you.
+
+![1](https://user-images.githubusercontent.com/44931963/188683695-d55d908a-1a39-40cc-96e6-da07fceb3b69.png)
+
+### Personal info
+![2](https://user-images.githubusercontent.com/44931963/188683686-34ccb34e-b568-4c0a-828c-3141faa26570.png)
+
+### Confirmation Page
+![3](https://user-images.githubusercontent.com/44931963/188683691-4f5aeb54-3975-4f66-81cf-ecfed636aae0.png)
+
 
 ## Table of Contents
 
